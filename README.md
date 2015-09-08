@@ -1,6 +1,8 @@
 # About
 Simple project to test out Apache Spark using the Ruby-Spark gem
 
+Based on the documentation from http://ondra-m.github.io/ruby-spark/
+
 
 # Data from StackExchange
 
